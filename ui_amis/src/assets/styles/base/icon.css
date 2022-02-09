@@ -1,0 +1,182 @@
+.dashboard {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -30px -1628px;
+}
+
+.cash {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -73px -1628px;
+}
+
+.bank {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -117px -1628px;
+}
+
+.shopping {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -161px -1628px;
+}
+
+.sale {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -204px -1628px;
+}
+
+.invoice {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -249px -1628px;
+}
+
+.stock {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -291px -1628px;
+}
+
+.tool {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -336px -1628px;
+}
+
+.fixed-asset {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -378px -1630px;
+}
+
+.tax {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -423px -1630px
+}
+
+.price {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -467px -1628px;
+}
+
+.general {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -510px -1628px;
+}
+
+.budget {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -378px -1659px;
+}
+
+.report {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -547px -1628px;
+}
+
+.finance {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -206px -1664px;
+}
+
+.menu{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -843px -30px;
+}
+
+.bell{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -788px -30px;
+}
+.arrow{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -80px -360px;
+    
+}
+
+.refresh-ico{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -423px -201px;
+}   
+.refresh-ico:hover{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -1096px -88px;
+} 
+.search{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -992px -360px;
+}
+
+.close{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -144px -144px;
+}
+
+.help{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -89px -144px;
+    
+}
+
+.arrow-cb{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -560px -359px;
+}
+.dropdown-blue{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -896px -359px;
+}
+.excel{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -704px -200px;
+}
+.excel:hover{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -704px -256px;
+}
+.dropdown-black{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -557px -359px;
+}
+.dropdown-while{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -848px -359px;
+}
+
+.setting_list {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -88px -200px;
+}
+.plus-success {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -32px -312px;
+}
+.mi-tour{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -976px -142px;
+}
+.mi-close{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -80px -312px;
+}
+.mi-delete{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -461px -312px;
+
+}
+.mi-attach{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -539px -203px;
+
+}
+
+.mi-select{
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -896px -312px;
+
+}
+.loading__icon {
+    background: transparent url("../../loading.svg") no-repeat center;
+    width: 50px;
+    height: 50px;
+    transition: all 0.3s ease;
+    animation: rotate 1s ease infinite;
+  }
+  .mi-header-option {
+    background: url("../../img/Sprites.svg") no-repeat;
+    background-position: -1687px -564px;
+}

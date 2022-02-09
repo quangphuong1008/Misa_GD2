@@ -1,0 +1,80 @@
+.popup-tab{
+    width: 100%;
+    height: 247px;
+    position: relative;
+}
+.tab{
+    height: 32px;
+    position: relative;
+    left: -1px;
+}
+.ul-tab{
+    margin: 0;
+    display: flex;
+    width: 100%;
+    height: 32px;
+    text-decoration: none;
+    padding: 0;
+    
+    
+}
+.ms-tabs-li{
+    height: 26px;
+    margin: 0 1px;
+    border: 1px solid #c9ccd2;
+    border-bottom: none;
+    border-radius: 2px 2px 0 0;
+    margin-bottom: 0;
+    list-style: none;
+    position: relative;
+    bottom: -6px;
+    cursor: pointer;
+}
+.ms-tabs-li:hover{
+    color: #35bf22;
+    cursor: pointer;
+}
+.select{
+    height: 32px;
+    bottom: 0px;
+    background-color: #ebedf0;
+  color: #35bf22;
+  border-collapse: collapse;
+}
+.ms-tabs-btn{
+    border-radius: unset!important;
+    height: 100%;
+    margin: 0;
+    padding: 0 8px;
+    display: flex;
+    place-items: center;
+}
+.slot-tab{
+    border: 1px solid #c9ccd2;
+    height: 215px;
+    box-sizing: border-box;
+
+}
+.m-popup-footer-btn {
+    border: 1px solid #c9ccd2 !important;
+    color: #111;
+    border-radius: 3px !important;
+    height: 34px !important;
+    padding: 6px 16px !important;
+  }
+  .m-popup-footer-btn + .m-popup-footer-btn {
+    margin-left: 6px !important; 
+  }
+.m-popup-footer{
+    padding: 0 32px;
+}
+.divide{
+    width: 100%;
+    border-top: 1px solid #e0e0e0;
+    margin: 15px 0 20px !important;
+    position: relative;
+}
+
+.m-text-tab{
+    
+}
